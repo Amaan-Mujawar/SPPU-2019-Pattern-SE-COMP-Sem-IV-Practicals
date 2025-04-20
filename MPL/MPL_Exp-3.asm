@@ -7,7 +7,6 @@
 
 ; Write an x86/64 ALP to find the largest of given byte/word/Dword 64 bit numbers.
 
-Input:
 ; ---------- DATA ----------
 
 section .data
