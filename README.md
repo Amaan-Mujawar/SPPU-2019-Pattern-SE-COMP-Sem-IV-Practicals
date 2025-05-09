@@ -18,8 +18,6 @@ These practicals have been implemented using the following technologies:
 
 While you can use the code as a reference, it is highly recommended to understand, experiment, and modify the code to strengthen your grasp of the concepts.
 
-A **PDF of the syllabus** and relevant documentation may also be included for additional guidance.
-
 ---
 
 ## Deployment
